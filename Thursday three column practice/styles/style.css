@@ -1,0 +1,59 @@
+div {
+	border: 1px solid black;
+	width: 980px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: auto;
+
+}
+
+header, footer {
+	border: 1px solid black;
+	width: 98%;
+	margin: auto;
+	height: 100px;
+	background: lightgrey;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.first-column {
+	border: 1px solid black;
+	width: 25%;
+	background: lightgrey;
+	height: 480px;
+	position: relative;
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.middle-column {
+	border: 1px solid black;
+	width: 45.3%;
+	background: lightgrey;
+	height: 480px;
+	float: left;
+	clear: right;
+	margin-bottom: 10px;
+	
+}
+
+aside {
+	border: 1px solid black;
+	width: 25%;
+	background: lightgrey;
+	height: 480px;
+	margin-bottom: 10px;
+	float: right;
+	clear: right;
+	margin-right: 10px;
+}
+footer {
+	clear: both;
+	margin-top: 10px;
+}
+
