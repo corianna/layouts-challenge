@@ -1,0 +1,77 @@
+
+div {
+	width: 970px;
+	height: 694px;
+	border: 1px solid green;
+	margin: auto;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+    header, footer {
+	border: 1px solid green;
+	width: 90%;
+	height: 70px;
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-color: lightgrey;
+
+}
+
+.column-1 {
+	border: 1px solid red;
+	width: 44%;
+	height: 170px;
+	background-color: lightgrey;
+	margin-left: 48px;
+	float: left;
+}
+
+.column-2 {
+	border: 1px solid red;
+	background-color: lightgrey;
+	height: 170px;
+	width: 44%;
+	float: right;
+	margin-right: 48px;
+}
+
+.left-column {
+	border: 1px solid blue;
+	height: 300px;
+	width: 29%;
+	background-color: lightgrey;
+	float: left;
+	margin-left: 48px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.right-column {
+	border: 1px solid blue;
+	background-color: lightgrey;
+	height: 300px;
+	width: 29%;
+	margin-right: 48px;
+	float: right;
+	margin-bottom: 15px;
+	margin-top: 15px;
+
+
+}
+
+.center-column {
+	border: 1px solid blue;
+	background-color: lightgrey;
+	height: 300px;
+	width: 29%;
+	float: right;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 13px;
+
+}
+
+footer {
+	clear: both;
